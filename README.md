@@ -1,8 +1,8 @@
 # React Native Polyslider
 
-[![Build Status][build-badge]][build]
+<!-- [![Build Status][build-badge]][build]
 [![Version][version-badge]][package]
-[![MIT License][license-badge]][license]
+[![MIT License][license-badge]][license] -->
 
 ## Getting Started
 
