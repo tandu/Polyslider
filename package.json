@@ -1,5 +1,5 @@
 {
-  "name": "polyslider",
+  "name": "@tandu/polyslider",
   "version": "1.1.0",
   "description": "expo / react-native polyslider",
   "repository": {
@@ -42,5 +42,8 @@
     "@welldone-software/why-did-you-render": "^6.2.0",
     "typescript": "~4.0.0"
   },
-  "private": false
+  "private": false,
+  "directories": {
+    "lib": "lib"
+  }
 }

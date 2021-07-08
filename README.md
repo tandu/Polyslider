@@ -7,13 +7,13 @@
 ## Getting Started
 
 ```
-$ yarn add polyslider
+$ yarn add @tandu/polyslider
 ```
 
 or
 
 ```
-$ npm install --save polyslider
+$ npm i @tandu/polyslider
 ```
 
 ## Usage
