@@ -136,7 +136,7 @@ onChange = {(val, i) => {
 
 ### `onChangeFinished`
 
-Is called on marker move end when pan gesture is ended. `val` is new value and `index` matches the index in `values` array.
+Is called on marker move end when pan gesture is finished. `val` is new value and `index` matches the index in `values` array.
 ```jsx
 onChangeFinished = {(val, i) => {
   const newValues = [...values];
