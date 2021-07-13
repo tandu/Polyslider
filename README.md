@@ -1,8 +1,6 @@
 # React Native Polyslider
 
-<!-- [![Build Status][build-badge]][build]
-[![Version][version-badge]][package]
-[![MIT License][license-badge]][license] -->
+This slider is probably having the smallest code size among others because it only provides base class of 45 lines of typescript that allows to build your own version of the slider that includes only what is neccessary in your project. To check it in action clone this repository. You need `expo` being installed on your machine. Install all dependencies with `yarn` or `npm install` then run `yarn start` or `expo start` from the root folder.
 
 ## Getting Started
 
